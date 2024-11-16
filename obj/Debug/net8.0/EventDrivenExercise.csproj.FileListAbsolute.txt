@@ -1,0 +1,14 @@
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\bin\Debug\net8.0\EventDrivenExercise.exe
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\bin\Debug\net8.0\EventDrivenExercise.deps.json
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\bin\Debug\net8.0\EventDrivenExercise.runtimeconfig.json
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\bin\Debug\net8.0\EventDrivenExercise.dll
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\bin\Debug\net8.0\EventDrivenExercise.pdb
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\EventDrivenExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\EventDrivenExercise.AssemblyInfoInputs.cache
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\EventDrivenExercise.AssemblyInfo.cs
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\EventDrivenExercise.csproj.CoreCompileInputs.cache
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\EventDrivenExercise.dll
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\refint\EventDrivenExercise.dll
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\EventDrivenExercise.pdb
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\EventDrivenExercise.genruntimeconfig.cache
+C:\Users\louag\source\repos\EventDrivenExercise\EventDrivenExercise\obj\Debug\net8.0\ref\EventDrivenExercise.dll
